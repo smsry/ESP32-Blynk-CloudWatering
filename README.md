@@ -1,4 +1,4 @@
-# ESP32-Blynk-CloudWatering
+# ESP32 Water.Cloud
 
 Contains the .ino for the ESP32
 Has to be flashed from the Arduino IDE.
